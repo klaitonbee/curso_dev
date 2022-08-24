@@ -17,3 +17,8 @@ console.log(variavel2)
 variavel2 = "Klaiton Agora é MUITO Maneiro"
 console.log(variavel1)
 console.log(variavel2)
+
+let numero1=100
+let numero2=200
+
+console.log(numero1+numero2)
