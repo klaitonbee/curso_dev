@@ -21,4 +21,5 @@ console.log(variavel2)
 let numero1=100
 let numero2=200
 
-console.log(numero1+numero2)
+console.log("Total da Operação Matemática")
+console.log(numero1 / numero2)
