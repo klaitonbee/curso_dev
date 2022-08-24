@@ -23,3 +23,11 @@ let numero2=200
 
 console.log("Total da Operação Matemática")
 console.log(numero1 / numero2)
+
+var idadeInformada = parseInt(prompt("Informe sua Idade"));
+
+if (idade >= idadeInformada) {
+
+    console.log("Pode jogar");
+
+}
