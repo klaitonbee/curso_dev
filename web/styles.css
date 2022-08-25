@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    width: 50px;
+    margin: 10px;
+}
+
+main{
+    border: 1px solid red;
+    max-width: 786px;
+    margin: 0 auto;
+}
+
+h1{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h1, p{
+    color:white;
+    text-align: center;
+}
+
+.botao{
+    background-color: aqua;
+    padding: 10px;
+    border: none;
+    flex: 1;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 20px;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.bt-azul{
+    background-color: blue;
+    color:white;
+    width: 40%;
+    margin-top: 40px;
+}
